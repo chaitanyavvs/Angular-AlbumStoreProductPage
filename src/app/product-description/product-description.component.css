@@ -1,6 +1,9 @@
-.product-description{
+p{
     font-weight: normal;
     font-size: 16px;
     font-family: Helvetica,Arial,sans-serif
-    
+}
+
+img{
+    width: 100%;
 }
